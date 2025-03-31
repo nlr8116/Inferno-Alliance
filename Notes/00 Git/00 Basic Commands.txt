@@ -1,0 +1,34 @@
+
+Basic Git commands
+
+git clone [link] - clones the repo at the provided link
+
+git pull [remote-name] [branch] - pulls the changes to be refelected locally 
+
+git push [remote-name] [branch] - pushes any changes to the remote repo
+
+git status - examine the status of the repo 
+
+git add[file1] [file2] ... - Stages changes the listed files to prep for the next commit
+
+git add . - adds all the files with changes in that directory(and sub directory)
+
+git commit -m "some message"  - makes the actual commit
+
+git branch [new-branch-name] - creates a new branch
+
+git switch [destination-branch-name] - switches to destination branch 
+
+
+
+other tools and terms
+
+gitbash - a bash like shell comes with its own terminal application 
+
+wsl - its linux for windows 
+
+Github CLI - CLI is command line interface  to sign into github on the raspberry pi  install git hub cli app. you can login gh auth login
+
+Github Desktop - a gui app that can make git more approchable for novices 
+
+
