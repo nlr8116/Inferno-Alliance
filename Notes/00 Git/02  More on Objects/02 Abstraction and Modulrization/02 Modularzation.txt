@@ -1,0 +1,11 @@
+Modularization:
+    -Concept of dividing a whole into well defined parts that can be examined seperately
+
+Ex: A vehicle class tcould be divied into 
+    -A car class
+    -Truck class
+    -a train class
+    -a one whell class
+    -an electic scooter class
+
+Ex: The way I'm structureing these notes 

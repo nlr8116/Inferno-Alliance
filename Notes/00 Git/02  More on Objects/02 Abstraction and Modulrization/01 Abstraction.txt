@@ -1,0 +1,9 @@
+Abstraction:
+    -The ability to ignore the details of parts of a system and focus on a higher level
+
+Ex: Google Maps Zoom level
+
+Ex: .append() 
+    -We dont usually care how it adds a value to a list just that it adds it 
+    -At a lower level of abstraction, where we are very concerned with performence, we might care about how it adds a value to the list 
+
