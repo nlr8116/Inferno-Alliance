@@ -1,0 +1,22 @@
+Coupling and cohesion
+
+Unit:
+A unit is any resonable self-contained component 
+Ex: a function 
+Ex: a class
+Ex: a file(i.e. python files, a package)
+Ex: A directory (mutiple python files, a package)
+
+coupling:
+The linking of two seperate units
+Goal is to have loosely coupled code(little dependency)
+Tightly couping units are genereally considered bad practice (lots of dependency)
+Tightly coupling units can make code more difficult to maintain
+
+Cohesion:
+referes to the numebr of an diversity of tasks that a single unit is responsible for 
+highly cohesive code means a unit is only resonable for 1 single tasks
+
+lwo cohesion means a unit is responsible for lots of takes
+low cohesive code
+we like high cohesion

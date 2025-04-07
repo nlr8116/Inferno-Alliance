@@ -1,0 +1,10 @@
+Abstract Methods:
+Medthods are intended to be implemented in subclasses of the class with the abstract method.
+
+Abstract Class: 
+A class that is designed to not be instanciated Serves as a templete for its subclasses 
+
+Concrete class:
+is a class that is inteded to be instanciated 
+
+Three ways  to implement abstarct methods/classes in the other files in this section 
