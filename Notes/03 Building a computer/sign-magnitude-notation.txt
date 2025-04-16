@@ -1,0 +1,8 @@
+Signed magnitude notation
+    - Idea: the most significant digit tells us the sign. the remaining digits are the magnitude 
+Ex. 
+0010
++2
+Ex.
+1010
+- 2

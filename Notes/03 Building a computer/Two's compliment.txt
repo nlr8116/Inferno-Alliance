@@ -1,0 +1,12 @@
+Idea flip every bit and add 1 to the result to get the oposite value
+ex. express -7 in 8 bit 2s comp
+0000 0111 +7
+1111 1001 -7
+ex. -17 in 10-bit two's comp.
+00000 10001
+11111 01111 = -17
+Ex. Represent 8 bit two's comp in decimal(base 10)
+1110 1001 it's negitive
+0001 0110
+0001 0111
+-23

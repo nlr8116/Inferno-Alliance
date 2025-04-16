@@ -1,0 +1,6 @@
+Idea: flip every bit to get negitive version of a num
+
+Ex. 0101 = +5
+ex.+1010 = -5
+    1111 = 0
+    0000 = 0
